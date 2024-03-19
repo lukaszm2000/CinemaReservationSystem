@@ -13,7 +13,7 @@ Wyzwalacz sprawdza, czy wprowadzona ocena i komentarz dotyczą filmu, ktory juz 
 Sprawdza on rowniez czy dany klient nie wystawił już oceny temu filmowi.
 Jesli ocena i komentarz są na temat filmu, który nie miał jeszcze premiery, lub klient dał już ocenę temu filmowi,
 to zmiany zostają wycofane. Dodatkowo zostaje updateowana kolumna SredniaOcena w tabeli OcenaFilmu, dla filmu, dla którego został
-daodany poprawny komentarz
+dodany poprawny komentarz.
 
 Projekt PLSQL:
 W ramach tego projektu została odwzorowana procedura z projektu T-SQL - jej funkcjonalność jest niemalże identyczna.
