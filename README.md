@@ -1,4 +1,4 @@
-Opis bazdy danych dla projektu PLSQL i T-SQL
+Opis bazdy danych dla projektu PLSQL i T-SQL:
 Baza danych obejmuje informacje o kinie, klientach, ocenach filmów, filmach, gatunkach filmowych, seansach, rezerwacjach,
 salach kinowych, typach sali i adresach - czyli wszystkie kluczowe elementy związane z funkcjonowaniem kina.
 Pozwala na śledzenie informacji dotyczących filmów, ich ocen, seansów, miejsca ich przedstawienia i rezerwacji klientów.
