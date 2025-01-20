@@ -3,7 +3,7 @@ The database includes information about the cinema, customers, film ratings, fil
 cinema halls, hall types and addresses - all key elements related to the functioning of the cinema.
 It allows you to track information about films, their ratings, screenings, where they are shown and customer reservations.
 
-# T-SQL project:
+# Project:
 The procedure will enable the cancellation of a given screening from the repertoire (at the latest date
 5 days from the current date) if the number of reservations is less than the argument provided by the user. In addition, the user provides
 start and end date between which the screening will be searched. Customers' reservations for a given film they have are also canceled
